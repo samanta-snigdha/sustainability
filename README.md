@@ -24,16 +24,6 @@ Programming Language: Python
 Frameworks: TensorFlow / Keras  
 Libraries: NumPy, OpenCV, Matplotlib, scikit-learn  
 Tools: Jupyter Notebook / Google Colab  
-
-
-**📊 Dataset**
-
-The project uses real-world plant disease datasets such as:
-
-Plant Disease Prediction  
-Plant Leaf Diseases Training Dataset  
-Plant Disease Expert  
-Plant Disease Recognition Dataset  
  
 
 **🧠 Model Workflow**
