@@ -4,11 +4,9 @@
 
 **🧩 Overview**
 
-In sustainable agriculture, early and accurate detection of plant diseases is essential to reduce chemical usage, prevent yield loss, and ensure long-term food security.
-However, most existing CNN-based models for crop disease detection are trained on controlled, laboratory datasets and fail to perform reliably in real-world farm conditions.
-Variations in lighting, background clutter, and image quality lead to poor generalization and reduced accuracy.
+In sustainable agriculture, early and accurate detection of plant diseases is vital to reduce excessive chemical usage, prevent yield loss, and ensure long-term food security. However, most existing CNN-based models for plant disease detection are trained on controlled, laboratory datasets and often fail to perform reliably in real-world farm conditions. Variations in lighting, background clutter, leaf orientation, and image quality lead to poor generalization and reduced accuracy.
 
-Therefore, this project aims to develop a robust CNN-based model for real-world crop disease detection under uncontrolled environmental conditions, enabling continuous and reliable crop health monitoring to support sustainable farming practices.  
+Therefore, this project aims to develop a robust CNN-based model for real-world plant disease detection under uncontrolled environmental conditions, enabling continuous and reliable plant health monitoring to support sustainable and eco-friendly farming practices. 
 
 
 **🎯 Objectives**
