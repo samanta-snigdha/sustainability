@@ -1,10 +1,10 @@
 # SUSTAINABILITY
 
-## 🌿 Real-World Crop Disease Detection using CNN
+## 🌿 Real-World Plant Disease Detection using CNN
 
 **🧩 Overview**
 
-In sustainable agriculture, early and accurate detection of crop diseases is essential to reduce chemical usage, prevent yield loss, and ensure long-term food security.
+In sustainable agriculture, early and accurate detection of plant diseases is essential to reduce chemical usage, prevent yield loss, and ensure long-term food security.
 However, most existing CNN-based models for crop disease detection are trained on controlled, laboratory datasets and fail to perform reliably in real-world farm conditions.
 Variations in lighting, background clutter, and image quality lead to poor generalization and reduced accuracy.
 
@@ -28,13 +28,12 @@ Tools: Jupyter Notebook / Google Colab
 
 **📊 Dataset**
 
-The project uses real-world crop disease datasets such as:
+The project uses real-world plant disease datasets such as:
 
-PlantDoc Dataset
- — images captured under natural conditions.
-
-PlantVillage Dataset
- — for baseline model comparison.  
+Plant Disease Prediction  
+Plant Leaf Diseases Training Dataset  
+Plant Disease Expert  
+Plant Disease Recognition Dataset  
  
 
 **🧠 Model Workflow**
@@ -51,4 +50,4 @@ Performance Analysis — Measure accuracy, loss, and confusion matrix.
 Enables early and accurate disease detection.  
 Reduces excessive pesticide usage.  
 Promotes sustainable and eco-friendly farming.  
-Supports continuous monitoring for crop health management.
+Supports continuous monitoring for plant health management.
